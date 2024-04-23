@@ -5,4 +5,4 @@ This task represents a simple approach to data science and analysis. Moreover, a
 
 ## Tools Used
 - Jupyter Notebook
-- Python libraries: NumPy, Pandas, Matplotlib
+- Python libraries: NumP and Matplotlib
